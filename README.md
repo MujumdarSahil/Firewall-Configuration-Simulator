@@ -1,5 +1,8 @@
 # Firewall-Configuration-Simulator
-![wallpaper](https://github.com/user-attachments/assets/c5a364d4-c972-4ddd-afc2-9d8ddf7526c6)
+![Screenshot 2024-11-20 225022](https://github.com/user-attachments/assets/7b71169a-6350-458f-8f21-1c7fc642588c)
+
+
+
 
 Description
 The Firewall Configuration Simulator is a Python-based application that allows users to simulate and test firewall rules and network traffic behavior. This project features a graphical user interface (GUI) for ease of interaction and backend functionality to configure and test custom firewall rules.
